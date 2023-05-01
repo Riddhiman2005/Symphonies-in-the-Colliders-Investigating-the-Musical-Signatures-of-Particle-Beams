@@ -1,0 +1,17 @@
+\section{\textbf{Theoretical Background}}
+\hspace{5mm} The central idea of our experiment is extracting characteristic music notes from accelerated particle beams at the T9 beamline. We plan to use Bending Magnets for separating the trajectories of the different particles in the beamline, and record their impact using MicroMegas detectors to obtain their exact positions. Once we get the exact coordinates $(x, y)$ in millimetres of each particle, the next step is to associate each of these coordinates with a frequency. We use the y-coordinate to assign a frequency to the particle, and the x-coordinate to determine the duration of the note. The frequency can be calculated on various scales. Whichever scale suits the experimental data can be adopted. An example could be the exponential scale: 
+
+\begin{equation}
+f = 2^{\frac{y}{t}}
+\end{equation}
+Where $y$ represents the y-coordinate of the point obtained from the MicroMegas detector, and $t$ is a constant whose value would be proposed empirically to keep the frequencies in range. The duration for which the note will be played can be worked out as: 
+
+\begin{equation}
+duration = \frac{x}{10} \times std
+\end{equation}
+Where $x$ represents the x-coordinate of the point obtained from the MicroMegas detector, and $std$ is a fixed duration of time for which a general note is played. The volume or loudness of the note will be determined based on the energy of the particle, using the below formula:
+
+\begin{equation}
+volume = k \times E
+\end{equation}
+Where $k$ is a constant that determines the scaling of the loudness with energy, and $E$ is the total energy of the particle, as measured by the calorimeters. The value of $k$ can be proposed empirically based on the desired volume of the musical note. Hence, the frequency $f$ obtained will be converted into a MIDI note and played for the respective duration with the respective loudness.
