@@ -14,9 +14,11 @@ students. The focus is free sessions, activities, and the use of hands-on learni
 as a tool for effective understanding of subjects. Recently, an astronomy seminar
 and **hands-on telescope-making session was held in Nashik, India**. 
 
+![Screenshot (509)](https://user-images.githubusercontent.com/130882317/236659461-ac2c3e27-0984-4243-a9c7-666c99237090.png)
+
 
 Participating in BL4S is an experience which we will cherish for our lifetime.
-Irrespective of the outcome of the competition, the Pied Pipers pledge to actively
+Irrespective of the outcome of the competition, the **Pied Pipers** pledge to actively
 contribute towards scientific outreach, envisioning a world where scientific ideas,
 education and resources are freely accessible to everyone.
 
