@@ -8,7 +8,7 @@ can have an impact on the lives of disadvantaged kids.
 After performing the experiment at CERN, we plan to create an audiovisual demonstration of Art + Physics (an extended version of our [BL4S video](https://youtu.be/b6IrVvogiFA))
 to be shared with schools and local educational clubs and societies. We will
 continue scientific enrichment activities through non-profit organizations such
-as **FLY ([Fun Learning Youth]([https://funlearningyouth.org])** and **RAM ([Raising a Mathematician Foundation](https://www.raisingamathematician.com/))**
+as **FLY ([Fun Learning Youth](https://funlearningyouth.org))** and **RAM ([Raising a Mathematician Foundation](https://www.raisingamathematician.com/))**
 which strive to bridge the educational gap and spark scientific interest in school
 students. The focus is free sessions, activities, and the use of hands-on learning
 as a tool for effective understanding of subjects. Recently, an astronomy seminar
