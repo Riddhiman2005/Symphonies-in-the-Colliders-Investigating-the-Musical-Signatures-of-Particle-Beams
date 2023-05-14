@@ -3,15 +3,15 @@
 
 With this proposal, we wish to conclude the answers to questions like: <br>
 <br>
-• Is there geometric symmetry in our findings? If not, what do atypical
-patterns indicate? <br>
+• *Is there geometric symmetry in our findings? If not, what do atypical
+patterns indicate*? <br>
 <br>
-• Are all characteristic notes of a particle beam, say a proton beam, the
-same? <br>
+•*Are all characteristic notes of a particle beam, say a proton beam, the
+same*? <br>
 <br>
 
-• What differentiates the music produced by these beams? Can we use it
-as a basis for identifying beam composition? <br>
+• *What differentiates the music produced by these beams? Can we use it
+as a basis for identifying beam composition*? <br>
 <br>
 
 Since the empirical access is limited, we can predict that on an average, given an
