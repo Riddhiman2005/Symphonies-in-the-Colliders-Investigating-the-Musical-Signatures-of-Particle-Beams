@@ -65,7 +65,7 @@ which is the distance along the direction of the magnetic field that the particl
 
 
 
-## Differential Equation##
+## Differential Equation ##
 
 As Maths enthusiasts we progressed our findings little further and used concepts of Differntial Equations and Vector Calculus to formulaize the results 
 
