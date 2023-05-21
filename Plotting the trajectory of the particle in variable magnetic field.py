@@ -1,3 +1,10 @@
+# A sample Python code that can be used to Plot the trajectory of the particle when subjected to variable magentic field.
+
+
+
+
+
+
 import numpy as np
 from scipy.integrate import odeint
 import matplotlib.pyplot as plt
