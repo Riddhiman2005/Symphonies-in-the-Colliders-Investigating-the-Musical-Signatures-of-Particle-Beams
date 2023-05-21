@@ -1,6 +1,3 @@
-# A sample Python code that can be used to Plot the trajectory of the particle when subjected to variable magentic field.
-
-
 
 
 
