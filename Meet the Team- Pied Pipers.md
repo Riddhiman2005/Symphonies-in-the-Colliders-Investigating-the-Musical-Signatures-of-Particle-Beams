@@ -10,7 +10,16 @@ Meet the fabulous seven, the team **Pied Pipers** though made up of aficionados 
 
 
 
+## MENTOR ##
 
+"*A mentor is someone who sees more talent and ability within you, than you see in yourself, and helps bring it out of you.*” — **Bob Proct**
+
+We are truly privileged and fortunate to have the guidance and mentorship of **[Shyam Wuppulari](https://www.shyam-wuppuluri.com/)** Sir. 
+His unwavering support, constant motivation, and expertise in helping us shape our ideas and proposals have been invaluable. 
+We are grateful for his mentorship, which has played a pivotal role in this journey.
+
+
+# #
 First up, we have [**Nikhil Kulkarni**](https://github.com/aaryunik) - the math wizard who loves Enginnering so much that he dreams of one day building a rocket ship to Mars ( and we'all be lucky enough to ride along!). He is a voracious reader and has an active [blog](https://normalisedvector.wordpress.com/) where he publishes interesting stuffs. 
 
 Then, we have **Riddhiman Bhattacharya**, the Physics enthusiast who's always looking up at the stars and wondering what's out there- he's convinced he'll discover a new galaxy one day! He runs an interesting blog known by the name [Everlasting Quest for Physics](https://everlastingquestforphysics.wordpress.com/) and is particularly famous in sending wishes using Physics and Mathematical theories. Quite popular among his friends as *Alien In Transit*- due to his versatile character.
